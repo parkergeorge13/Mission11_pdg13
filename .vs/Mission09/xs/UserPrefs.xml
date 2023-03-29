@@ -1,0 +1,66 @@
+﻿<Properties StartupConfiguration="{E988AA5D-A77A-466A-A1AE-13FAD11E8A64}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission09/Models/Cart.cs">
+    <Files>
+      <File FileName="Mission09/Views/Home/Index.cshtml" Line="16" Column="7" />
+      <File FileName="Mission09/Startup.cs" Line="30" Column="16" />
+      <File FileName="Mission09/libman.json" Line="10" Column="2" />
+      <File FileName="Mission09/Views/Shared/_Layout.cshtml" Line="21" Column="8" />
+      <File FileName="Mission09/Views/_ViewImports.cshtml" Line="5" Column="8" />
+      <File FileName="Mission09/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Mission09/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Mission09/appsettings.json" />
+      <File FileName="Mission09/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Mission09/Models/IBookstoreRepository.cs" Line="10" Column="25" />
+      <File FileName="Mission09/Models/EFBookstoreRepository.cs" Line="19" Column="32" />
+      <File FileName="Mission09/Models/BookstoreContext.cs" Line="23" Column="27" />
+      <File FileName="Mission09/Infrastructure/PaginationTagHelper.cs" Line="33" Column="79" />
+      <File FileName="Mission09/Controllers/HomeController.cs" Line="28" Column="33" />
+      <File FileName="Mission09/Views/Shared/ProjectSummary.cshtml" Line="15" Column="11" />
+      <File FileName="Mission09/Pages/_BuyBooksLayout.cshtml" Line="19" Column="8" />
+      <File FileName="Mission09/Pages/_ViewImports.cshtml" Line="2" Column="18" />
+      <File FileName="Mission09/Pages/_ViewStart.cshtml" Line="3" Column="2" />
+      <File FileName="Mission09/Views/Shared/Components/Categories/Default.cshtml" Line="14" Column="1" />
+      <File FileName="Mission09/wwwroot/lib/css/bootstrap.min.css" Line="23" Column="26" />
+      <File FileName="Mission09/Program.cs" Line="21" Column="2" />
+      <File FileName="Mission09/Models/ViewModels/BooksViewModel.cs" Line="14" Column="2" />
+      <File FileName="Mission09/Models/ViewModels/PageInfo.cs" Line="19" Column="1" />
+      <File FileName="Mission09/Models/ViewModels/Cart.cs" Line="4" Column="30" />
+      <File FileName="Mission09/Components/CategoriesViewComponet.cs" Line="1" Column="1" />
+      <File FileName="Mission09/Infrastructure/SessionExtensions.cs" Line="7" Column="1" />
+      <File FileName="Mission09/Infrastructure/UrlExtension.cs" Line="14" Column="2" />
+      <File FileName="Mission09/Models/Books.cs" Line="24" Column="19" />
+      <File FileName="Mission09/Pages/BuyBooks.cshtml" Line="24" Column="39" />
+      <File FileName="Mission09/Pages/BuyBooks.cshtml.cs" Line="33" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission09" expanded="True">
+            <Node name="Mission09" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True">
+                  <Node name="twitter-bootstrap" expanded="True">
+                    <Node name="css" expanded="True">
+                      <Node name="bootstrap.css" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mission09 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

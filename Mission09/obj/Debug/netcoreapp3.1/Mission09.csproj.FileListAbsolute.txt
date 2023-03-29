@@ -1,0 +1,255 @@
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.csproj.AssemblyReference.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.AssemblyInfoInputs.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.AssemblyInfo.cs
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.csproj.CoreCompileInputs.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.MvcApplicationPartsAssemblyInfo.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.RazorAssemblyInfo.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.RazorAssemblyInfo.cs
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.deps.json
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.runtimeconfig.json
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.runtimeconfig.dev.json
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.pdb
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.Views.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.Views.pdb
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/Mission09.StaticWebAssets.Manifest.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/Mission09.StaticWebAssets.Pack.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.Mission09.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.Mission09.props
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.Mission09.props
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.Mission09.props
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.TagHelpers.input.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.TagHelpers.output.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.RazorCoreGenerate.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.RazorTargetAssemblyInfo.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.RazorTargetAssemblyInfo.cs
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.Views.pdb
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.csproj.CopyComplete
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.dll
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.pdb
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.genruntimeconfig.cache
+/Users/joshjudkins/Downloads/Winter 2023 Jr Core/IS413/Mission09/Mission09/bin/Debug/netcoreapp3.1/libman.json
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/libman.json
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.deps.json
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.runtimeconfig.json
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.runtimeconfig.dev.json
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.pdb
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.Views.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Mission09.Views.pdb
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.csproj.AssemblyReference.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.AssemblyInfoInputs.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.AssemblyInfo.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.csproj.CoreCompileInputs.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.MvcApplicationPartsAssemblyInfo.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.RazorAssemblyInfo.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.RazorAssemblyInfo.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/Mission09.StaticWebAssets.Manifest.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/Mission09.StaticWebAssets.Pack.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.Mission09.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.Mission09.props
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.Mission09.props
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.Mission09.props
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.TagHelpers.input.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.TagHelpers.output.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.RazorCoreGenerate.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.RazorTargetAssemblyInfo.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.RazorTargetAssemblyInfo.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.Views.pdb
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.csproj.CopyComplete
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.dll
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.pdb
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Mission09.genruntimeconfig.cache
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Pages/BuyBooks.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Pages/_BuyBooksLayout.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Categories/Default.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Pages/PurchaseConfirmation.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/Purchase/Checkout.cshtml.g.cs
+/Users/joshjudkins/Desktop/Mission09/Mission09/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/CartSummary/Default.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Mission09.exe
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Mission09.deps.json
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Mission09.runtimeconfig.json
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Mission09.runtimeconfig.dev.json
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Mission09.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Mission09.pdb
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Mission09.Views.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Mission09.Views.pdb
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.csproj.AssemblyReference.cache
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.AssemblyInfoInputs.cache
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.AssemblyInfo.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.csproj.CoreCompileInputs.cache
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.RazorAssemblyInfo.cache
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.RazorAssemblyInfo.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\staticwebassets\Mission09.StaticWebAssets.Manifest.cache
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\staticwebassets\Mission09.StaticWebAssets.xml
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\scopedcss\bundle\Mission09.styles.css
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.TagHelpers.input.cache
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.TagHelpers.output.cache
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.RazorCoreGenerate.cache
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Pages\BuyBooks.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Pages\PurchaseConfirmation.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Pages\_BuyBooksLayout.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Checkout.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Views\Shared\BookSummary.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.RazorTargetAssemblyInfo.cache
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.RazorTargetAssemblyInfo.cs
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.Views.pdb
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.csproj.CopyComplete
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.dll
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.pdb
+C:\Users\parke\source\repos\Mission11_pdg13\Mission09\obj\Debug\netcoreapp3.1\Mission09.genruntimeconfig.cache
